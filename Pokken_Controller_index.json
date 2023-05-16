@@ -3,7 +3,7 @@
     {
       "name": "Pokken Controller",
       "maintainer": "Jas2o",
-      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
+      "Url": "https://github.com/quinman24/POKKEN_CONTROLLER_board/blob/main/Pokken_Controller-2.0.zip?raw=true",
       "platforms": [
         {
           "name": "Pokken Controller Boards",
@@ -11,7 +11,7 @@
           "version": "2.0",
           "deprecated": false,
           "category": "Arduino",
-          "url": "http://github.com/ Pokken_Controller-2.0.zip",
+          "url": "https://github.com/quinman24/POKKEN_CONTROLLER_board/blob/main/Pokken_Controller-2.0.zip?raw=true",
           "archiveFileName": "Pokken_Controller-2.0.zip",
           "checksum": "SHA-256:ab9adeae2593d774d600d705b02ebf65",
           "size": "23520036",
